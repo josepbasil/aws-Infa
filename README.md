@@ -10,7 +10,8 @@ Prerequisite:
 --------------------------
 
 1) Clone the Repo. You will get 2 directories: 1. code (application) 2. terraform (infra)
-
+   git clone git@github.com:josepbasil/aws-Infra.git
+   
 2) Navigate to terrafrom directory 
 
 3) Run the terrafrom init  command, it will Initialize the provider plugin.
